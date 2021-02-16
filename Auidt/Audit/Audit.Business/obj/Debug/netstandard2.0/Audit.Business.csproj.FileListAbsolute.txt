@@ -1,0 +1,16 @@
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.Business.deps.json
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.Business.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.Business.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.csprojAssemblyReference.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.AssemblyInfoInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.AssemblyInfo.cs
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.csproj.CoreCompileInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.Entities.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.Entities.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\obj\Debug\netstandard2.0\Audit.Business.csproj.CopyComplete
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.DataAccess.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Business\bin\Debug\netstandard2.0\Audit.DataAccess.pdb

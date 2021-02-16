@@ -1,0 +1,9 @@
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Core\obj\Debug\netstandard2.0\Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\bin\Debug\netstandard2.0\Audit.Entities.deps.json
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\bin\Debug\netstandard2.0\Audit.Entities.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\bin\Debug\netstandard2.0\Audit.Entities.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.csprojAssemblyReference.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.AssemblyInfoInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.AssemblyInfo.cs
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.csproj.CopyComplete
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.dll
+C:\Users\ragbe\Desktop\Public\YAZILIM\PROJELER\Sgk\Auidt\Audit\Audit.Entities\obj\Debug\netstandard2.0\Audit.Entities.pdb
